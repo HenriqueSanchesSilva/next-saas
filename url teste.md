@@ -2,3 +2,4 @@ https://github.com/login/oauth/authorize?client_id=Ov23liMlVwbY8GfnCOKb&redirect
 
 
 transfira para supabase
+descobri o pq do force
